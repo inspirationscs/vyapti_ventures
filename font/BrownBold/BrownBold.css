@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'BrownBold';
+    src: url('BrownBold.eot');
+    src: url('BrownBold.eot') format('embedded-opentype'),
+         url('BrownBold.woff2') format('woff2'),
+         url('BrownBold.woff') format('woff'),
+         url('BrownBold.ttf') format('truetype'),
+         url('BrownBold.svg#BrownBold') format('svg');
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'BrownThin';
+    src: url('BrownThin.eot');
+    src: url('BrownThin.eot') format('embedded-opentype'),
+         url('BrownThin.woff2') format('woff2'),
+         url('BrownThin.woff') format('woff'),
+         url('BrownThin.ttf') format('truetype'),
+         url('BrownThin.svg#BrownThin') format('svg');
+}
